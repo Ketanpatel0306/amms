@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@styles-page/*": ["src/styles-page/*"],
+      "@styles-layout/*":["src/styles-layout/*"]
+    }
+  },
+  "include": ["src"]
+}
